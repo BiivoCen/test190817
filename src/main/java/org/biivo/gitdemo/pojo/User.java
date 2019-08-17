@@ -5,4 +5,5 @@ public class User {
     private String name;
     private String pwd;
     private String phone;
+    private String Address;
 }
