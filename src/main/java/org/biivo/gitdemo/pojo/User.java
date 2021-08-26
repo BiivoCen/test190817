@@ -6,4 +6,5 @@ public class User {
     private String pwd;
     private String phone;
     private String Address;
+    private String newValue;
 }
